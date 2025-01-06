@@ -1,4 +1,5 @@
 **Welcome dear Mojira user!**
+*(for people who want to git clone the repo, it's useless, just copy paste the code and read at least until the serious part)*
 
 **Bored of this boring bug of ultimate boredomness?**
 
