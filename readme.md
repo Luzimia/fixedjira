@@ -16,6 +16,7 @@ listeners.forEach(listener => { // Will execute this for each listener.
 ```
 
 **The legend say that if you can't write some characters in Mojira, you can fix this temporarily by ~~giving me your money~~ copy pasting this code into your web browser's console.**
+(if this was useful for you it would be cool to let me know by adding a star for example)
 
 **[SERIOUS PART]**
 
